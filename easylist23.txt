@@ -50221,7 +50221,6 @@ rok.guide##.ancr-top-spacer
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 foreca.com##.anlu8i5
-yts.mx##.aoiwjs
 motor1.com##.ap
 thinkcomputers.org##.apPluginContainer
 motor1.com##.apb
@@ -50785,7 +50784,6 @@ kickasstorrents.to##.dssdffds
 digitaltrends.com##.dtads-location
 digitaltrends.com##.dtads-slot
 googleping.com##.dtext
-yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
 etherscan.io##.dxddkdcp7wz
 dailydot.com##.dynamic-block
@@ -53244,7 +53242,6 @@ limetorrents.pro#?#.torrentinfo div + div:-abp-contains(Fast And Direct Download
 rephrase.info#?#.text-center.my-3:-abp-has(span:-abp-contains(Advertisement))
 walmart.com#?#li.items-center:-abp-has(div[data-ad-component-type="wpa-tile"])
 walmart.com#?#div[class="mb1 ph1 pa0-xl bb b--near-white w-25"]:-abp-has(div[data-ad-component-type="wpa-tile"])
-yts.mx#?#.hidden-xs.hidden-sm:-abp-contains(Warning!‌ Download only with VPN...)
 troyhunt.com#?#.sidebar-featured:-abp-has(a[href^="https://pluralsight.pxf.io/"])
 tripadvisor.com#?#.dsnvR:-abp-has(span:-abp-contains(Sponsored))
 tripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
